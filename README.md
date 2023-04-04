@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="left">Hello, I'm Jan 🇨🇿</h1>
+<h3 align="left">Junior Full-Stack Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h3>
+
+
+
 
 <!--
 **jkrejcik/jkrejcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
