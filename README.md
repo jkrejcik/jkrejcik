@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Jan 🇨🇿</h1>
-<h3 align="left">Junior Full-Stack Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h3>
+<h3 align="left">Full-Stack Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h3>
 
 
 
