@@ -1,10 +1,9 @@
 <h1 align="left">Hello, I'm Jan 🇨🇿</h1>
-<h3 align="left">Full-Stack Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h3>
-
+<h2 align="left">Full-Stack Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h2>
 
 <h2>🌱 I’m currently learning:</h2> 
 <ul>
-  <li>React</li>
+  <li><h2>React</h2></li>
 </ul>
 
 <!--
