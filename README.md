@@ -3,7 +3,7 @@
 
 <h2>🌱 I’m currently learning:</h2> 
 <ul>
-  <li font-size="1rem">React</li>
+  <li>React</li>
 </ul>
 
 <!--
