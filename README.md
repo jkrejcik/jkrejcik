@@ -3,6 +3,8 @@
 
 <h2>🌱 I’m currently learning:</h2> 
 <ul>
+  <li>SuiteScript</li>
+  <li>JavaScript</li>
   <li>React</li>
 </ul>
 
