@@ -1,11 +1,11 @@
-<h1 align="left">Hello, I'm Jan 🇨🇿</h1>
-<h2 align="left">Junior Full-Stack Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h2>
+<h1 align="left">Hello, I'm Jan</h1>
+<h2 align="left">NetSuite Administrator/Developer with a background in account management and sales. Recently graduated from Le Wagon intensive 6-month (part-time) Web Development bootcamp.</h2>
 
 <h2>🌱 I’m currently learning:</h2> 
 <ul>
   <li>SuiteScript</li>
   <li>JavaScript</li>
-  <li>React</li>
+  <li>Vue.js</li>
 </ul>
 
 <!--
