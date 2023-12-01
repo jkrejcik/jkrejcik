@@ -5,7 +5,6 @@
 <ul>
   <li>SuiteScript</li>
   <li>JavaScript</li>
-  <li>Vue.js</li>
 </ul>
 
 <!--
